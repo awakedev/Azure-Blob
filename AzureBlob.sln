@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureBlob", "AzureBlob\AzureBlob.csproj", "{ED624D3D-1373-498C-B1C3-D373E7DECEBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED624D3D-1373-498C-B1C3-D373E7DECEBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED624D3D-1373-498C-B1C3-D373E7DECEBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED624D3D-1373-498C-B1C3-D373E7DECEBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED624D3D-1373-498C-B1C3-D373E7DECEBF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {890EB12B-C201-443B-8BA3-662EDD0D656F}
+	EndGlobalSection
+EndGlobal

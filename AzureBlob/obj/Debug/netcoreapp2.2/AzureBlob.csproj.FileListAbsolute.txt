@@ -1,0 +1,12 @@
+C:\Users\DELL\source\repos\AzureBlob\AzureBlob\bin\Debug\netcoreapp2.2\AzureBlob.dll.config
+C:\Users\DELL\source\repos\AzureBlob\AzureBlob\bin\Debug\netcoreapp2.2\AzureBlob.deps.json
+C:\Users\DELL\source\repos\AzureBlob\AzureBlob\bin\Debug\netcoreapp2.2\AzureBlob.runtimeconfig.json
+C:\Users\DELL\source\repos\AzureBlob\AzureBlob\bin\Debug\netcoreapp2.2\AzureBlob.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\AzureBlob\AzureBlob\bin\Debug\netcoreapp2.2\AzureBlob.dll
+C:\Users\DELL\source\repos\AzureBlob\AzureBlob\obj\Debug\netcoreapp2.2\AzureBlob.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\AzureBlob\AzureBlob\obj\Debug\netcoreapp2.2\AzureBlob.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\AzureBlob\AzureBlob\obj\Debug\netcoreapp2.2\AzureBlob.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\AzureBlob\AzureBlob\obj\Debug\netcoreapp2.2\AzureBlob.AssemblyInfo.cs
+C:\Users\DELL\source\repos\AzureBlob\AzureBlob\bin\Debug\netcoreapp2.2\AzureBlob.pdb
+C:\Users\DELL\source\repos\AzureBlob\AzureBlob\obj\Debug\netcoreapp2.2\AzureBlob.dll
+C:\Users\DELL\source\repos\AzureBlob\AzureBlob\obj\Debug\netcoreapp2.2\AzureBlob.pdb
